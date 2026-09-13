@@ -1,4 +1,6 @@
 # ARTIGO_08 Effects of internet and smartphone addiction on cognitive control in adolescents and young adults: A systematic review of fMRI studies
+#### Meio da Pirâmide: Artigo do Tema
+---
 
 ## Identificação do Estudo
 * **Título Original:** Effects of internet and smartphone addiction on cognitive control in adolescents and young adults: A systematic review of fMRI studies[cite: 3]

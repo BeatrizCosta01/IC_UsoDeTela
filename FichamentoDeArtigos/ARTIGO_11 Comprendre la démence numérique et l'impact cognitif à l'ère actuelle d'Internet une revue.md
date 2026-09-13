@@ -1,5 +1,7 @@
 
 # ARTIGO_11 Comprendre la démence numérique et l'impact cognitif à l'ère actuelle d'Internet: une revue
+#### BASE DA PIRÂMIDE: Amplo Conhecimento da Área
+---
 
 ## Identificação do Estudo
 

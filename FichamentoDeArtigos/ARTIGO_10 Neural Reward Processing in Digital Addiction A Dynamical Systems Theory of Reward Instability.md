@@ -1,4 +1,6 @@
 # ARTIGO_10: Neural Reward Processing in Digital Addiction: A Dynamical Systems Theory of Reward Instability
+#### Meio da Pirâmide: Artigo do Tema
+---
 
 ## Identificação do Estudo
 

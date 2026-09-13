@@ -1,4 +1,6 @@
 # ARTIGO_07 How Does Chronic Short-Form Media Consumption Destabilize Dopamine and Serotonin Regulation in the Adolescent Brain?
+#### Meio da Pirâmide: Artigo do Tema
+---
 
 **Referência:**
 Łabuć. (2026). *How Does Chronic Short-Form Media Consumption Destabilize Dopamine and Serotonin Regulation in the Adolescent Brain?*

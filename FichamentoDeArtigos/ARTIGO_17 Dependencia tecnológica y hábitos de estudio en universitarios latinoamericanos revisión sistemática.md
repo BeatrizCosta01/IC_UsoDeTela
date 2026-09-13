@@ -1,4 +1,6 @@
 # ARTIGO_17 Dependencia tecnológica y hábitos de estudio en universitarios latinoamericanos: revisión sistemática
+#### Meio da Pirâmide: Artigo do Tema
+---
 
 ## Identificação do Estudo
 

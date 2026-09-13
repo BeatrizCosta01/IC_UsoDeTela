@@ -1,4 +1,6 @@
 # ARTIGO_06 Prefrontal control and Internet addiction: a theoretical model and review of neuropsychological and neuroimaging findings
+#### Meio da Pirâmide: Artigo do Tema
+---
 
 **Referência:**
 Brand, M., Young, K. S., & Laier, C. (2014). Prefrontal control and Internet addiction: a theoretical model and review of neuropsychological and neuroimaging findings. *Frontiers in Human Neuroscience*, 8, 375.

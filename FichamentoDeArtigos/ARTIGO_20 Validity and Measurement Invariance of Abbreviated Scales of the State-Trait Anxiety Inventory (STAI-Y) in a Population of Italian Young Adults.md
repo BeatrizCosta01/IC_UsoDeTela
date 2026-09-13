@@ -1,4 +1,7 @@
 # ARTIGO_20 Validity and Measurement Invariance of Abbreviated Scales of the State-Trait Anxiety Inventory (STAI-Y) in a Population of Italian Young Adults
+#### Topo da Pirâmide: Artigo Essencial e Decisivo
+---
+
 
 ### Identificação do Estudo
 

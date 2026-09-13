@@ -1,4 +1,6 @@
 # ARTIGO 2: Screen Time and Mental Health Outcomes in Children and Adolescents: The Mediating Roles of Physical Activity and Sleep
+#### Topo da Pirâmide: Artigo Essencial e Decisivo
+---
 
 ## Identificação do Estudo
 

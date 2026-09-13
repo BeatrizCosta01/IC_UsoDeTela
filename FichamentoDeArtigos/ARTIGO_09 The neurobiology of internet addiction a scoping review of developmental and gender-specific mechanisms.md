@@ -1,4 +1,6 @@
 # ARTIGO_09 The neurobiology of internet addiction: a scoping review of developmental and gender-specific mechanisms
+#### Meio da Pirâmide: Artigo do Tema
+---
 
 ## Identificação do Estudo
 

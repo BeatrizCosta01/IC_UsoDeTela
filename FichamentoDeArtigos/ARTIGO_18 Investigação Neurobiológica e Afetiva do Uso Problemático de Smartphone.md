@@ -1,4 +1,6 @@
 # ARTIGO_18 Investigação Neurobiológica e Afetiva do Uso Problemático de Smartphone
+#### Meio da Pirâmide: Artigo do Tema
+---
 
 ## Identificação do Estudo
 

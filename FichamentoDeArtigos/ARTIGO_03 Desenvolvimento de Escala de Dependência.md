@@ -1,4 +1,6 @@
 # ARTIGO 3: Development and Validation of a Smartphone Addiction Scale (SAS)
+#### Meio da Pirâmide: Artigo do Tema
+---
 
 ## Identificação do Estudo
 

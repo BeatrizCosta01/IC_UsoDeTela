@@ -1,5 +1,7 @@
 
 # ARTIGO 1: The Smartphone Addiction Scale: Development and Validation of a Short Version for Adolescents
+#### Topo da Pirâmide: Artigo Essencial e Decisivo
+---
 
 ## Identificação do Estudo
 

@@ -1,4 +1,6 @@
 # ARTIGO_12 Uma Análise Neuropsicológica do Impacto das Telas da Infância à Adultidade: Modulação do Circuito Cingulado Dopaminérgico no Desenvolvimento Humano
+#### Topo da Pirâmide: Artigo Essencial e Decisivo
+
 
 ## Identificação do Estudo
 

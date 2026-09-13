@@ -1,4 +1,6 @@
 # ARTIGO_19  Uso Problemático de Smartphones e seus Correlatos na Saúde Mental de Adolescentes: Uma Revisão Integrativa
+#### Meio da Pirâmide: Artigo do Tema
+---
 
 ## Identificação do Estudo
 

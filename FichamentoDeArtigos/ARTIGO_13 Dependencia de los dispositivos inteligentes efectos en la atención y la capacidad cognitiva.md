@@ -1,4 +1,6 @@
 # ARTIGO_13 Dependencia de los dispositivos inteligentes: efectos en la atención y la capacidad cognitiva
+#### Meio da Pirâmide: Artigo do Tema
+---
 
 ## Identificação do Estudo
 

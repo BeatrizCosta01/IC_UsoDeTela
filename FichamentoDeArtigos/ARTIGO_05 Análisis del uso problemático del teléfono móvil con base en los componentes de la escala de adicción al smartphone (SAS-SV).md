@@ -1,4 +1,6 @@
 # ARTIGO 5: Análisis del uso problemático del teléfono móvil con base en los componentes de la escala de adicción al smartphone (SAS-SV)
+#### Topo da Pirâmide: Artigo Essenciais e Decisivo
+---
 
 ## Identificação do Estudo
 

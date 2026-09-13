@@ -1,6 +1,6 @@
 # ARTIGO_14 Exacerbação dos Sintomas do Transtorno de Déficit de Atenção e Hiperatividade Relacionada ao Uso Prolongado de Tecnologias Digitais
-
-
+#### Meio da Pirâmide: Artigo do Tema
+---
 
 ## Identificação do Estudo
 

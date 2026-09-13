@@ -1,4 +1,6 @@
 # ARTIGO_16 O Cérebro Conectado: Impulsividade e Sobrecarga Cognitiva no Uso Excessivo de Smartphones
+#### Topo da Pirâmide: Artigo Essencial e Decisivo
+---
 
 ## Identificação do Estudo
 
