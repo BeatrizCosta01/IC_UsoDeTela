@@ -4,13 +4,6 @@
 
 ---
 
-## Fluxo da metodologia
-
-[ ETAPA 1 ]                [ ETAPA 2 ]               [ ETAPA 3 ]              [ ETAPA 4 ]
-Recrutamento & TCLE  --->  Baseline (Dia 0)   --->   Acompanhamento (14d)  ---> Triangulação
-(Termo de Aceite)          (Questionário Inicial)    (Diário de 14 Itens + Print) (Análise de Dados)
-
-
 ##  Eixos da Pesquisa (Fundamentação Teórica - Total: 25 Artigos)
 
 ### Eixo 1: Dependência de Smartphone e Escalas Psicométricas (SAS / SAS-SV)
